@@ -2,7 +2,7 @@
 
 Felvétel 
 
-Golden hour, szép, árnyékos kép, nap az alany mögött.
+Golden hour, szép, árnyékos kép, nap az alany mögött, Rembrandt-háromszög.
 Shutter speed minél gyorsabb, aperture egy stoppal a maximális fölött, a lencseélesség miatt.
 Manual mód plusz auto ISO.
 25 fps, 1/50 sec. shutter speed, ND filter.
