@@ -37,6 +37,7 @@ Ciánozás a színpókhálóval.
 Hang
 
 Audio layerek.
+ADR.
 
 Export
 
