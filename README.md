@@ -12,6 +12,7 @@
 
 * Manual mód plusz auto ISO.
 * Videó: 4k, 25 fps, 1/50 sec. shutter speed, ND filter, log format (Sony SLog-3), -0,7 ... -1 EV.
+* Tripod, sosem kézből.
 
 ## Kompozíció
 
