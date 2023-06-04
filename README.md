@@ -6,12 +6,12 @@
 * Nap az alany mögött.
 
 * Key light, full light, back light. Rembrandt-háromszög.
-* 
+
 * Shutter speed minél gyorsabb.
 * Aperture egy stoppal a maximális fölött, a lencseélesség miatt.
 
 * Manual mód plusz auto ISO.
-* Videó: 25 fps, 1/50 sec. shutter speed, ND filter.
+* Videó: 4k, 25 fps, 1/50 sec. shutter speed, ND filter, log format (Sony SLog-3), -0,7 ... -1 EV.
 
 ## Kompozíció
 
@@ -41,18 +41,23 @@
 
 ## Színezés
 
-Log format, Sony SLog3 + LUT.
-Davinci Resolve Color Managed.
-Zajeltávolítás: temporal, majd esetleg spatial.
-Motion blur.
-Ciánozás a színpókhálóval.
+* Davinci Resolve Color Managed.
+  * Clipek csoportosítása. Pre: SLog3 --> Davinci Color Managed. Post: Davinci Color Managed --> Rec-709.
+* Zajeltávolítás: 
+  * temporal, 
+  * majd esetleg spatial.
+* Motion blur rossz klipre.
+* Ciánozás a színpókhálóval.
 
-Hang
+## Hang
 
-Audio layerek.
-ADR.
+* Audio layerek.
+* ADR.
 
-Export
+#$ Export
 
-H.265 17 = optikai lossless, 28 = default, +/- 6 a méretben kettes szorzó.
+* H.265
+  * 17 = optikai lossless,
+  * 28 = default,
+  * +/- 6 a méretben kettes szorzó.
 
