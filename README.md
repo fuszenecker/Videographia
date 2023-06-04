@@ -1,32 +1,45 @@
 # Videographia
 
-Felvétel 
+## Felvétel 
 
-Golden hour, szép, árnyékos kép, nap az alany mögött, Rembrandt-háromszög.
-Shutter speed minél gyorsabb, aperture egy stoppal a maximális fölött, a lencseélesség miatt.
-Manual mód plusz auto ISO.
-25 fps, 1/50 sec. shutter speed, ND filter.
+* Golden hour, szép színek, árnyékos kép.
+* Nap az alany mögött.
 
-Kompozíció
+* Key light, full light, back light. Rembrandt-háromszög.
+* 
+* Shutter speed minél gyorsabb.
+* Aperture egy stoppal a maximális fölött, a lencseélesség miatt.
 
-Rule of thirds, vezető vonalak.
-Establishing shot, master shot, kivezető shot, B-roll.
+* Manual mód plusz auto ISO.
+* Videó: 25 fps, 1/50 sec. shutter speed, ND filter.
 
-Vágás
+## Kompozíció
 
-Cut on action, match cut.
-L-cut a B-rollra vagy insert shotra, párbeszéd első mindatára.
-J-cut a párbeszédben, néha akkor is, ha a másik ember nem is szólal meg.
-Smash cut, hangosról másik, halk jelenetre. Határeset: vágás ütemre.
-Van lassítás (retime) optikal flow hatással.
-Kamera mozgatása: 4k széles kép és a Dinamic Zoommal kameramozgatás.
+* Rule of thirds.
+* Vezető vonalak.
+* Establishing shot, master shot, kivezető shot.
+* B-roll.
 
-FX
+## Vágás
 
-Stabilizálás Planar trackerrel, esetleg Trackerrel.
-Effektekre motion blur.
+* Cut on action, match cut.
+* L-cut
+  * a B-rollra,
+  * insert shotra,
+  * párbeszéd *első* mindatára.
+* J-cut a párbeszédben, néha akkor is, ha a másik ember nem is szólal meg.
+* Smash cut, hangosról másik, halk jelenetre. Határeset: vágás ütemre.
+* Van lassítás (retime) optikal flow hatással.
+* Kamera mozgatása: 4k széles kép és a Dinamic Zoommal kameramozgatás.
 
-Színezés
+## FX
+
+* Stabilizálás
+  * Planar trackerrel,
+  * esetleg Trackerrel.
+* Effektekre (pl. szöveg mozgatás) otion blur.
+
+## Színezés
 
 Log format, Sony SLog3 + LUT.
 Davinci Resolve Color Managed.
