@@ -37,7 +37,7 @@
 
 * Stabilizálás
   * Planar trackerrel,
-  * esetleg Trackerrel.
+  * esetleg (pont) Trackerrel.
 * Effektekre (pl. szöveg mozgatás) otion blur.
 * Planar trackerrel valamit odaehet tenni, ami követ, pl. eget.
 
