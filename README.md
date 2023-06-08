@@ -53,7 +53,7 @@
 
 ## Hang
 
-* Analyze / Normalize: e.g. YouTube -14 dB LUFS
+* Analyze / Normalize: e.g. YouTube/TikTok -14 dB LUFS
 * Audio layerek.
 * ADR.
 
