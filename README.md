@@ -53,6 +53,7 @@
 
 ## Hang
 
+* Analyze / Normalize: e.g. YouTube -14 dB LUFS
 * Audio layerek.
 * ADR.
 
