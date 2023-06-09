@@ -79,18 +79,17 @@
 
 ## Hang
 
-* `Analyze Audio Levels` / `Normalize Audio Levels`
-  * `ITU-R BS.177044`
-    * YouTube: -14 dB LUFS.
-    * TikTok: -13-15 dB LUFS.
+* `Analyze Audio Levels`, `Normalize Audio Levels`: `ITU-R BS.177044` értékek:
+  * YouTube: -14 dB LUFS.
+  * TikTok: -13-15 dB LUFS.
 * Audio layerek (`Timeline` --> `Layered Audio Editing`).
 * ALT + kattingás a hangerő vonalon = audio keyframes.
 * ADR.
 
-#$ Export
+## Export
 
-* H.265
-  * 17 = optikai lossless,
-  * 28 = default,
-  * +/- 6 a méretben kettes szorzó.
+* H.265, HVEC:
+  * 17-18 = optikai lossless,
+  * 26-28 = default,
+  * ± 6 a méretben kettes szorzó.
 
