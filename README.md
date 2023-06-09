@@ -82,6 +82,7 @@
 * Az árnyékos részeket el lehet tolni cián irányba:
   * `Color Wheels` --> `Log Wheels` --> `Shadows`-t kell cián irányba állítani.
   * Az `↑ Rng` és `↓ Rng` beállítja az "árnyék" tartományt.
+* Leget a végén `Vignette`-t adni a filmre.
 
 ## Hang
 
