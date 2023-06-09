@@ -15,6 +15,7 @@
     * ND filter, ha túl világos,
   * log format (Sony SLog-3),
 * Tripodról, állványról, **sosem kézből**.
+* Hangot mindig külön kell felvenni (Zoom F2, LMF-2).
 
 ## Kompozíció
 
