@@ -30,6 +30,7 @@
 
 * Color Management: `Davinci YRGB Color Managed`.
 * `Frame Interpolation` --> `Retime Process`: `Optical flow`.
+* `Playback` --> `Render Cache` --> `Smart`.
 
 ## Vágás
 
