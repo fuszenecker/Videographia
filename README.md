@@ -38,8 +38,9 @@
 ## FX
 
 * Stabilizálás
-  * Planar trackerrel,
-  * esetleg (pont) Trackerrel.
+  * Planar trackerrel:
+    * ha van planar transform node, a planar trackert le lehet törölni, a transform node-ban megvan a mozgatási infó,
+  * ~ (pont) Trackerrel~.
 * Effektekre (pl. szöveg mozgatás), motion blur.
 * Planar trackerrel valamit odaehet tenni, ami követ, pl. eget.
 * Ég lecserélése.
@@ -57,8 +58,9 @@
 
 ## Hang
 
-* Analyze / Normalize: e.g. YouTube/TikTok -14 dB LUFS
+* Analyze / Normalize: e.g. YouTube/TikTok -14 dB LUFS.
 * Audio layerek.
+* ALT + kattingás a hangerő vonalon = audio keyframes.
 * ADR.
 
 #$ Export
