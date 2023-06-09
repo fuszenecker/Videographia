@@ -26,6 +26,11 @@
   * kivezető shot.
 * B-roll.
 
+## Project Settings
+
+* Color Management: `Davinci YRGB Color Managed`.
+* `Frame Interpolation` --> `Retime Process`: `Optical flow`.
+
 ## Vágás
 
 * Cut on action,
@@ -58,11 +63,10 @@
 
 ## Színezés
 
-* Color Management: `Davinci YRGB Color Managed`.
-  * Clipek csoportosítása: klipek kijelölése, `Add to Current (New) Group`.
-    * Pre (első pötty): SLog3 --> Davinci Color Managed.
-    * Klipenként (második pötty): amit kell.
-    * Post (hatmadik pötty): Davinci Color Managed --> Rec-709.
+* Clipek csoportosítása: klipek kijelölése, `Add to Current (New) Group`.
+  * Pre (első pötty): `Sony S-Gamut3`+`S-Log3` --> `DaVinci Wide Gamut` + `DaVinci Intermediate`.
+  * Klipenként (második pötty): amit kell.
+  * Post (hatmadik pötty): `DaVinci Wide Gamut` + `DaVinci Intermediate` --> `Rec-709`+`Rec-709-A`.
 * Zajeltávolítás (`Motion Effects`):
   * temporal, 
   * majd esetleg spatial.
