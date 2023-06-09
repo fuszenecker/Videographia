@@ -39,7 +39,7 @@
 
 * Stabilizálás
   * Planar trackerrel:
-    * ha van planar transform node, a planar trackert le lehet törölni, a transform node-ban megvan a mozgatási infó,
+    * ha van planar transform node, a planar trackert le lehet törölni, a transform node-ban megvan a mozgatási infó.
   * ~ (pont) Trackerrel~.
 * Effektekre (pl. szöveg mozgatás), motion blur.
 * Planar trackerrel valamit odaehet tenni, ami követ, pl. eget.
@@ -47,19 +47,28 @@
 
 ## Színezés
 
-* Davinci Resolve Color Managed.
-  * Clipek csoportosítása. Pre: SLog3 --> Davinci Color Managed. Post: Davinci Color Managed --> Rec-709.
-* Zajeltávolítás: 
+* Color Management: `Davinci YRGB Color Managed`.
+  * Clipek csoportosítása: klipek kijelölése, `Add to Current (New) Group`.
+    * Pre (első pötty): SLog3 --> Davinci Color Managed.
+    * Klipenként (második pötty): amit kell.
+    * Post (hatmadik pötty): Davinci Color Managed --> Rec-709.
+* Zajeltávolítás (`Motion Effects`):
   * temporal, 
   * majd esetleg spatial.
-* Égszín kiemelése.
-* Motion blur rossz klipre.
-* Ciánozás a színpókhálóval.
+* Égszín kiemelése (`Curves` --> `Hue vs Sat`).
+* Motion blur (`Motion Effects`) rossz klipre.
+* Ciánozás a színpókhálóval (`Color Warper`).
+* Van `Gallery` a bal felső sarokban, oda lehet menteni:
+  * állóképeket (still),
+  * színezés fázisait, ami később össze lehet hasonlítani előtte-utána nézetben.
 
 ## Hang
 
-* Analyze / Normalize: e.g. YouTube/TikTok -14 dB LUFS.
-* Audio layerek.
+* `Analyze Audio Levels` / `Normalize Audio Levels`
+  * `ITU-R BS.177044`
+    * YouTube: -14 dB LUFS.
+    * TikTok: -13-15 dB LUFS.
+* Audio layerek (`Timeline` --> `Layered Audio Editing`).
 * ALT + kattingás a hangerő vonalon = audio keyframes.
 * ADR.
 
