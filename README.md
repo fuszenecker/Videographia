@@ -80,7 +80,7 @@
 
 ## Hang
 
-* **☺Voice Isolation**.
+* **Voice Isolation**.
 * `Analyze Audio Levels`, `Normalize Audio Levels`: `ITU-R BS.177044` értékek:
   * YouTube: -14 dB LUFS.
   * TikTok: -13-15 dB LUFS.
