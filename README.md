@@ -101,7 +101,10 @@
   * 26-28 = default,
   * ± 6 a méretben kettes szorzó.
   * Rate Control: Constant Bitrate
-  * Bitrate: 
+  * Video bitrate: 
     * 2160p (4K):	35–45 Mbps,
     * 1080p	8 Mbps,
     * 720p	5 Mbps.
+  * Audio bitrate:
+    * Mono:	128 kbps,
+    * Stereo:	384 kbps.
