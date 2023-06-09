@@ -78,6 +78,10 @@
 * Van `Gallery` a bal felső sarokban, oda lehet menteni:
   * állóképeket (still),
   * színezés fázisait, ami később össze lehet hasonlítani előtte-utána nézetben.
+* A kontraszt S-t tesz a görbébe, a `Pivot` az S-t mozgatja világos-sötét tengelyen.
+* Az árnyékos részeket el lehet tolni cián irányba:
+  * `Color Wheels` --> `Log Wheels` --> `Shadows`-t kell cián irányba állítani.
+  * Az `↑ Rng` és `↓ Rng` beállítja az "árnyék" tartományt.
 
 ## Hang
 
