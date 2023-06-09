@@ -100,4 +100,8 @@
   * 17-18 = optikai lossless,
   * 26-28 = default,
   * ± 6 a méretben kettes szorzó.
-
+  * Rate Control: Constant Bitrate
+  * Bitrate: 
+    * 2160p (4K):	35–45 Mbps,
+    * 1080p	8 Mbps,
+    * 720p	5 Mbps.
