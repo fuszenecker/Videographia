@@ -4,35 +4,46 @@
 
 * Golden hour, szép színek, árnyékos kép.
 * Nap az alany mögött.
-
-* Key light, full light, back light. Rembrandt-háromszög.
-
-* Shutter speed minél gyorsabb.
-* Aperture egy stoppal a maximális fölött, a lencseélesség miatt.
-
-* Manual mód plusz auto ISO.
-* Videó: 4k, 25 fps, 1/50 sec. shutter speed, ND filter, log format (Sony SLog-3), -0,7 ... -1 EV.
-* Tripod, sosem kézből.
+* Key light, fill light, back light. Rembrandt-háromszög.
+* Shutter speed: **1/100** vagy gyorsabb.
+* Aperture egy stoppal a maximális fölött, a lencseélesség miatt (ha max. aperture = 2.8, akkor 3.5 vagy magasabb).
+* **Manual mód plusz auto ISO**, én állítom a shutter speedet és az aperture-t.
+* Videó: 
+  * felbontás: 4k UHD (3840 × 2160),
+  * 25 (vagy 24) fps, 1/50 sec. shutter speed,
+  * Expozíció: -0,7 ... -1 EV,
+    * ND filter, ha túl világos,
+  * log format (Sony SLog-3),
+* Tripodról, állványról, **sosem kézből**.
 
 ## Kompozíció
 
 * Rule of thirds.
 * Vezető vonalak.
-* Establishing shot, master shot, kivezető shot.
+* Shotok:
+  * Establishing shot,
+  * (master shot),
+  * kivezető shot.
 * B-roll.
 
 ## Vágás
 
-* Cut on action, match cut.
-* L-cut (ALT gomb)
-  * a B-rollra,
-  * insert shotra,
-  * párbeszéd **első** mindatára (kvázi odafordul az ember figyelme).
-* J-cut (ALT gomb) a párbeszédben **további** ide-oda váltogatásnál, néha akkor is, ha a másik ember nem is szólal meg (kvázi elvárja az ember a választ).
-* Smash cut, hangosról másik, halk jelenetre. Határeset: vágás ütemre.
+* Cut on action,
 * Match cut.
-* Jump cut az idő telésének felgyorsítására.
-* Van lassítás (retime) optikal flow hatással.
+* ALT gomb: a vágást a kép- vagy hangsávon lehet ida-oda mozgatni
+  * L-cut:
+    * a B-rollra,
+    * insert shotra,
+    * párbeszéd **első** mindatára: kvázi odafordul az ember figyelme.
+  * J-cut:
+    *  a párbeszédben **további** ide-oda váltogatásnál: kvázi várja az ember a választ, 
+    *  néha akkor is, ha a másik ember nem is szólal meg, csak az érzelmet mutatjuk,
+* Smash cut, hangosról másik, halk jelenetre. 
+* Vágás ütemre, zenére.
+* Jump cut: az idő telésének felgyorsítására.
+* Van lassítás, gyursítás (retime) optikal flow hatással:
+  * `Retime Control`,
+  * `Retime Curve`: ALT-tal lehet keyframe-et hozzáadni,
 * Kamera mozgatása: 4k széles kép és a Dinamic Zoommal kameramozgatás.
 
 ## FX
