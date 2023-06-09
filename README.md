@@ -40,8 +40,9 @@
 * Stabilizálás
   * Planar trackerrel,
   * esetleg (pont) Trackerrel.
-* Effektekre (pl. szöveg mozgatás) otion blur.
+* Effektekre (pl. szöveg mozgatás), motion blur.
 * Planar trackerrel valamit odaehet tenni, ami követ, pl. eget.
+* Ég lecserélése.
 
 ## Színezés
 
@@ -50,6 +51,7 @@
 * Zajeltávolítás: 
   * temporal, 
   * majd esetleg spatial.
+* Égszín kiemelése.
 * Motion blur rossz klipre.
 * Ciánozás a színpókhálóval.
 
