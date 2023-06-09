@@ -49,7 +49,7 @@
 * Van lassítás, gyursítás (retime) optikal flow hatással:
   * `Retime Control`,
   * `Retime Curve`: ALT-tal lehet keyframe-et hozzáadni,
-* Kamera mozgatása: 4k széles kép és a Dinamic Zoommal kameramozgatás.
+* Kamera mozgatása: 4k UHD széles kép és a `Zoomm` + `Transform`-mal kameramozgatás.
 
 ## FX
 
