@@ -24,11 +24,11 @@
 ## Vágás
 
 * Cut on action, match cut.
-* L-cut
+* L-cut (ALT gomb)
   * a B-rollra,
   * insert shotra,
   * párbeszéd **első** mindatára (kvázi odafordul az ember figyelme).
-* J-cut a párbeszédben **további** ide-oda váltogatásnál, néha akkor is, ha a másik ember nem is szólal meg (kvázi elvárja az ember a választ).
+* J-cut (ALT gomb) a párbeszédben **további** ide-oda váltogatásnál, néha akkor is, ha a másik ember nem is szólal meg (kvázi elvárja az ember a választ).
 * Smash cut, hangosról másik, halk jelenetre. Határeset: vágás ütemre.
 * Match cut.
 * Jump cut az idő telésének felgyorsítására.
