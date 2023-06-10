@@ -32,6 +32,10 @@
 * Color Management: `Davinci YRGB Color Managed`.
 * `Frame Interpolation` --> `Retime Process`: `Optical flow`.
 * `Playback` --> `Render Cache` --> `Smart`.
+* (!!) Proxy Resolution:
+  * 1080p HD: Half
+  * 4k UHD: Quarter
+* Generate Proxy Media
 * (!!) Audio target level: -14 dB.
 
 ## Vágás
@@ -83,7 +87,7 @@
 * Az árnyékos részeket el lehet tolni cián irányba:
   * `Color Wheels` --> `Log Wheels` --> `Shadows`-t kell cián irányba állítani.
   * Az `↑ Rng` és `↓ Rng` beállítja az "árnyék" tartományt.
-* Leget a végén `Vignette`-t adni a filmre.
+* Lehet a végén `Vignette`-t adni a filmre.
 
 ## Hang
 
