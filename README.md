@@ -90,8 +90,15 @@
 * `Analyze Audio Levels`, `Normalize Audio Levels`: `ITU-R BS.177044` értékek:
   * YouTube: -14 dB LUFS.
   * TikTok: -13-15 dB LUFS.
-* Audio layerek (`Timeline` --> `Layered Audio Editing`).
+* Audio layerek (`Timeline` --> `Layered Audio Editing`), ezek közül csak a legfelső hallatszik.
 * ALT + kattingás a hangerő vonalon = audio keyframes.
+* A Lavalier mikrofon elég steril hangot ad, lehet rá kis zengést adni `Reverb` pluginnel, és a mélyet kicsit kiemelni equalizerrel.
+* **Zene vége**:
+  * Megvégni a zenét, hogy egy dobütés még benne legyen.
+  * Utolsó (néhány) dobütéstől másolatot készíteni a zenéről (2-3 másodperc), áttenni új trackre.
+  * Új tracket compound clippé konvertálni (?).
+  * Meghosszabbítani a compound clipet. hogy legyen hely a zengésnek.
+  * Rátenni egy `Reverb` effektet, hogy amikor az utolsót üti a dobos, kicsit visszhangozzon, és úgy érjen véget.
 * ADR.
 
 ## Export
