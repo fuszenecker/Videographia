@@ -32,6 +32,7 @@
 * Color Management: `Davinci YRGB Color Managed`.
 * `Frame Interpolation` --> `Retime Process`: `Optical flow`.
 * `Playback` --> `Render Cache` --> `Smart`.
+* (!!) Audio target level: -14 dB.
 
 ## Vágás
 
@@ -94,10 +95,14 @@
 * ALT + kattingás a hangerő vonalon = audio keyframes.
 * A Lavalier mikrofon elég steril hangot ad, lehet rá kis zengést adni `Reverb` pluginnel, és a mélyet kicsit kiemelni equalizerrel.
 * **Zene vége**:
-  * Megvégni a zenét, hogy egy dobütés még benne legyen.
-  * Utolsó (néhány) dobütéstől másolatot készíteni a zenéről (2-3 másodperc), áttenni új trackre.
-  * Új tracket compound clippé konvertálni (?).
-  * Meghosszabbítani a compound clipet. hogy legyen hely a zengésnek.
+  * Megvágni a zenét, hogy egy dobütés még benne legyen.
+  * Másolatot készíteni az utolsó dobütésről, áttenni új trackre.
+  * Új tracket compound clippé konvertálni (`Create New`).
+  * Meghosszabbítani a compound clipet, hogy legyen hely a zengésnek:
+    * Megnyitni a compound clipet,
+    * a benne levő zenét lemásolni.
+    * meghosszabbítani a másolatot.
+    * némítani.
   * Rátenni egy `Reverb` effektet, hogy amikor az utolsót üti a dobos, kicsit visszhangozzon, és úgy érjen véget.
 * ADR.
 
