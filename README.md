@@ -95,9 +95,10 @@
 * `Analyze Audio Levels`, `Normalize Audio Levels`: `ITU-R BS.177044` értékek:
   * YouTube: -14 dB LUFS.
   * TikTok: -13-15 dB LUFS.
+* Hangot jelalak alapján szinkronizálni.
 * Audio layerek (`Timeline` --> `Layered Audio Editing`), ezek közül csak a legfelső hallatszik.
 * ALT + kattingás a hangerő vonalon = audio keyframes.
-* A Lavalier mikrofon elég steril hangot ad, lehet rá kis zengést adni `Reverb` pluginnel, és a mélyet kicsit kiemelni equalizerrel.
+* A Lavalier mikrofon elég steril hangot ad, lehet rá kis zengést adni `Reverb` pluginnel, és a magasat kicsit kiemelni, közepet elnyomni equalizerrel.
 * **Zene vége**:
   * Megvágni a zenét, hogy egy dobütés még benne legyen.
   * Másolatot készíteni az utolsó dobütésről, áttenni új trackre.
