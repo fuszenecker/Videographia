@@ -496,3 +496,5 @@ helpManual :=
 # MediaPool
 MediaPool.Context_setPosterFrame := Ctrl+P
 MediaPool.Context_clearPosterFrame := Alt+P
+
+
