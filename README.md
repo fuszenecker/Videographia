@@ -5,9 +5,11 @@
 * Golden hour, szép színek, árnyékos kép.
 * Nap az alany mögött.
 * Key light, fill light, back light. Rembrandt-háromszög.
-* Shutter speed: **1/100** vagy gyorsabb. Ökölszabály: `1 / fókusztávolság[mm, @35mm]`.
-* Aperture egy stoppal a maximális fölött, a lencseélesség miatt (ha max. aperture = 2.8, akkor 3.5 vagy magasabb).
-* **Manual mód plusz auto ISO**, én állítom a shutter speedet és az aperture-t.
+* Állókép:
+  * Shutter speed: **1/100** vagy gyorsabb. Ökölszabály: `1 / fókusztávolság[mm, @35mm]`.
+  * RAW-ban is mentsük.
+  * Aperture egy stoppal a maximális fölött, a lencseélesség miatt: pl. ha max. aperture = 2.8, akkor 3.5 vagy magasabb.
+  * **Manual mód plusz auto ISO**, én állítom a shutter speedet és az aperture-t.
 * Videó: 
   * felbontás: 4k UHD (3840 × 2160),
   * 25 (vagy 24) fps, 1/50 sec. shutter speed,
@@ -15,7 +17,7 @@
     * ND filter, ha túl világos,
   * log format (Sony SLog-3),
 * Tripodról, állványról, **sosem kézből**.
-* Hangot mindig külön kell felvenni (Zoom F2, LMF-2).
+* Hangot mindig külön kell felvenni (Zoom F2, LMF-2), később, hullámforma alapján szikronizálni.
 
 ## Kompozíció
 
