@@ -29,6 +29,17 @@
   * kivezető shot.
 * B-roll.
 
+## DaVinci Resolve Settings
+
+`DaVinci Resolve` --> `Preferences`:
+* `User`:
+  * `Project Save and Load`:
+    * `Live save`: be
+    * `Project backups`: be
+    * `Timeline backups`: be
+  * `Editing`:
+    * `New Timeline Settings` --> `Start timecode`: `00:00:00`, különben elcsúszik a felirat (subtitle). 
+
 ## Project Settings
 
 * Color Management: `Davinci YRGB Color Managed`.
