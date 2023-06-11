@@ -32,16 +32,21 @@
 ## Project Settings
 
 * Color Management: `Davinci YRGB Color Managed`.
-* `Frame Interpolation` --> `Retime Process`: `Optical flow`.
+* `File` --> `Project Settings` --> `Master Settings` --> `Frame Interpolation` --> `Retime Process`: `Optical flow`. Ezzel a beállítással bármikor lehet slow motion-t csinálni Retime Curve-vel. A `Motion estimation mode`-ot lehet állítani, finomhangolni.
+* `Timeline` --> `Selection Follows Playhead`: vágásnál fontos, hogy mindig az éppen aktuálisan látott klipet vágjuk.
 * `Playback` --> `Render Cache` --> `Smart`.
-* (!!) Proxy Resolution:
-  * 1080p HD: Half
-  * 4k UHD: Quarter
-* Generate Proxy Media
-* (!!) Audio target level: -14 dB.
+* Proxy:
+  * `File` --> `Project Settings` --> `Master Settings`:
+    * `Proxy media resolution` és `Optimized media resolution`:
+      * 1080p HD: Half
+      * 4k UHD: Quarter
+    * `Proxy media format`, `Optimized media format` és `Render cache format`: `DNxHR` valamenyik.
+* Audio target level: 
+  * `File` --> `Project Settings` --> `Fairlight` --> `Target loudness level`: -14 dB LUFS.
 
 ## Vágás
 
+* `Generate Proxy Media`.
 * Cut on action,
 * Match cut.
 * ALT gomb: a vágást a kép- vagy hangsávon lehet ida-oda mozgatni
