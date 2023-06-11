@@ -5,7 +5,7 @@
 * Golden hour, szép színek, árnyékos kép.
 * Nap az alany mögött.
 * Key light, fill light, back light. Rembrandt-háromszög.
-* Shutter speed: **1/100** vagy gyorsabb.
+* Shutter speed: **1/100** vagy gyorsabb. Ökölszabály: `1 / fókusztávolság[mm, @35mm]`.
 * Aperture egy stoppal a maximális fölött, a lencseélesség miatt (ha max. aperture = 2.8, akkor 3.5 vagy magasabb).
 * **Manual mód plusz auto ISO**, én állítom a shutter speedet és az aperture-t.
 * Videó: 
