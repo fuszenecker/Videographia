@@ -24,8 +24,8 @@
 * Rule of thirds.
 * Vezető vonalak.
 * Shotok:
-  * Establishing shot,
-  * (master shot),
+  * (establishing shot),
+  * master shot, amiben bemutatjuk a főszereplőt,
   * kivezető shot.
 * B-roll.
 
