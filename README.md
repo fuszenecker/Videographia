@@ -38,7 +38,8 @@
     * `Project backups`: be
     * `Timeline backups`: be
   * `Editing`:
-    * `New Timeline Settings` --> `Start timecode`: `00:00:00`, különben elcsúszik a felirat (subtitle). 
+    * `New Timeline Settings` --> `Start timecode`: `00:00:00`, különben elcsúszik a felirat (subtitle).
+* `DaVinci Resolve` --> (`Keyboard mapping`)[Davinci Resolve keymap.txt]
 
 ## Project Settings
 
