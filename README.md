@@ -6,7 +6,7 @@
 * Nap az alany mögött.
 * Key light (főfény), fill light (derítőfény), back light (díszítő- vagy élfény). Rembrandt-háromszög. Kontraszt-arány: 4:1 - 8:1. 
 * Állókép:
-  * Shutter speed: **1/100** vagy gyorsabb. Ökölszabály: `1 / fókusztávolság[mm, @35mm]`.
+  * Shutter speed: **1/100** vagy gyorsabb. Ökölszabály: `1 / (2 × fókusztávolság[mm, @35mm])`.
   * RAW-ban is mentsük.
   * Aperture egy stoppal a maximális fölött, a lencseélesség miatt: pl. ha max. aperture = 2.8, akkor 3.5 vagy magasabb.
   * **Manual mód plusz auto ISO**, én állítom a shutter speedet és az aperture-t.
