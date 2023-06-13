@@ -82,7 +82,7 @@
 * Stabilizálás
   * Planar trackerrel:
     * ha van planar transform node, a planar trackert le lehet törölni, a transform node-ban megvan a mozgatási infó.
-  * ~ (pont) Trackerrel~.
+  * ~(pont) Trackerrel~.
 * Effektekre (pl. szöveg mozgatás), motion blur.
 * Planar trackerrel valamit odaehet tenni, ami követ, pl. eget.
 * Ég lecserélése.
