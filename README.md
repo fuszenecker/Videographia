@@ -86,6 +86,7 @@
 * Effektekre (pl. szöveg mozgatás), motion blur.
 * Planar trackerrel valamit odaehet tenni, ami követ, pl. eget.
 * Ég lecserélése.
+* Keyframe stretcher.
 
 ## Színezés
 
