@@ -40,6 +40,7 @@
   * `Editing`:
     * `New Timeline Settings` --> `Start timecode`: `00:00:00`, különben elcsúszik a felirat (subtitle).
 * `DaVinci Resolve` --> `Keyboard mapping`: [keymap](Davinci Resolve Keymap.txt)
+* Dual screen: `Workspace` --> `Video Clean Feed`: a másik monitor.
 
 ## Project Settings
 
