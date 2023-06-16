@@ -157,7 +157,7 @@
     * Mono:	128 kbps,
     * Stereo:	384 kbps.
 
-### HDR
+### HDR Rec.2020 HGL
 
 Project szinten és/vagy timeline szinten állítsd be (`Color` tab):
 
