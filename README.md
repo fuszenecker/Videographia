@@ -150,7 +150,7 @@
     * `Color science`: `DaVinci YRGB Color Managed`,
     * `Color Processing Mode`: `HDR`
     * `Output color space`: `HDR PQ`
-  * H.265 `Main10`.
+  * H.265 `Main10` profile, a lenti videó bitrate-eket 20%-kal meg kell emelni. 
   * Color Space: `Rec.2020`, Gamma Tag: `Rec.2100 ST2084`.
 * H.265, HVEC:
   * 17-18 = optikai lossless,
@@ -159,8 +159,8 @@
   * Rate Control: Constant Bitrate
   * Video bitrate: 
     * 2160p (4K):	35–45 Mbps,
-    * 1080p	8 Mbps,
-    * 720p	5 Mbps.
+    * 1080p:	8 Mbps,
+    * 720p:	5 Mbps.
   * Audio bitrate:
     * Mono:	128 kbps,
     * Stereo:	384 kbps.
