@@ -146,10 +146,11 @@
 ## Export
 
 * Ha HDR-t szeretnél:
-  * Edit-ben: jobbgomb a timeline-on, `Timelines` --> `Timeline Settings`. `Color` tabon:
+  * Edit-ben: jobbgomb a timeline-on, `Timelines` --> `Timeline Settings` --> `Color` tabon:
     * `Color science`: `DaVinci YRGB Color Managed`,
     * `Color Processing Mode`: `HDR`
     * `Output color space`: `HDR PQ`
+    * `HDR mastering is for "1000" nits.`
   * H.265 `Main10` profile, a lenti videó bitrate-eket 20%-kal meg kell emelni. 
   * Color Space: `Rec.2020`, Gamma Tag: `Rec.2100 ST2084`.
 * H.265, HVEC:
