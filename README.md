@@ -23,7 +23,7 @@
 
 * Rule of thirds.
 * Vezető vonalak.
-* Shotok:
+* Shotok minden jelenethez (scene):
   * (establishing shot),
   * master shot, amiben bemutatjuk a főszereplőt,
   * kivezető shot.
