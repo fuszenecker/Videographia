@@ -45,7 +45,6 @@
 ## Project Settings
 
 * Color Management: `Davinci YRGB Color Managed`.
-* Ha HDR-t szeretnél: Color Space: `Rec.2020`, Gamma Tag: `Rec.2100 ST2084`. Exportnál H.265 `Main10`.
 * `File` --> `Project Settings` --> `Master Settings` --> `Frame Interpolation` --> `Retime Process`: `Optical flow`. Ezzel a beállítással bármikor lehet slow motion-t csinálni Retime Curve-vel. A `Motion estimation mode`-ot lehet állítani, finomhangolni.
 * `Timeline` --> `Selection Follows Playhead`: vágásnál fontos, hogy mindig az éppen aktuálisan látott klipet vágjuk.
 * `Playback` --> `Render Cache` --> `Smart`.
@@ -146,13 +145,17 @@
 ## Export
 
 * Ha HDR-t szeretnél:
-  * Edit-ben: jobbgomb a timeline-on, `Timelines` --> `Timeline Settings` --> `Color` tabon:
-    * `Color science`: `DaVinci YRGB Color Managed`,
+  * project szinten, 
+  * timeline szinten,
+  * a color tabon
+  * és exportkor állítsd be:
+    * `Color science`, `Color management`: `DaVinci YRGB Color Managed`,
+    * `Color Space`: `Rec.2020`, `Gamma Tag`: `Rec.2100 ST2084`.
     * `Color Processing Mode`: `HDR`
     * `Output color space`: `HDR PQ`
     * `HDR mastering is for "1000" nits.`
-  * H.265 `Main10` profile, a lenti videó bitrate-eket 20%-kal meg kell emelni. 
-  * Color Space: `Rec.2020`, Gamma Tag: `Rec.2100 ST2084`.
+    * HDR tökömtudja: `BT.2020, D64, valami, full`.
+    * H.265 `Main10` profile, a lenti videó bitrate-eket 20%-kal meg kell emelni. 
 * H.265, HVEC:
   * 17-18 = optikai lossless,
   * 26-28 = default,
