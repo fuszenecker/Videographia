@@ -177,3 +177,5 @@ Project szinten és/vagy timeline szinten állítsd be (`Color` tab):
     * Embeddáljuk a HDR10+ és a HDR Vivid metadatát.
   * DNxHR:
     * `Format`: `QuickTime`, `Codec`: `DNxHR`, `Type`: `DNxHR HQX 10-bit`.
+
+YouTube-on nagyon sokat kell várni a HDR konverzióra.
