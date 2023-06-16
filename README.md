@@ -171,9 +171,9 @@ Project szinten és/vagy timeline szinten állítsd be (`Color` tab):
 * ~`Mastering display`: `1000-nit, BT.2020, D65, ST2084, full`~,
 * `Enable HDR10+`: on, `Enable HDR Vivid`: on, `Enable Dolby Vision`: on,
 * Exportálás:
+  * `Data Levels`: `Full`.
+  * H.265:
+    * `MP4` container, `Main10` profile, a lenti videó bitrate-eket 20%-kal meg kell emelni.
+    * Embeddáljuk a HDR10+ és a HDR Vivid metadatát.
   * DNxHR:
     * `Format`: `QuickTime`, `Codec`: `DNxHR`, `Type`: `DNxHR HQX 10-bit`.
-    * `Data Levels`: `Full`.
-  * H.265:
-    * H.265 `Main10` profile, a lenti videó bitrate-eket 20%-kal meg kell emelni.
-    * Nem embeddálnk vagy exportálunk metadatát.
