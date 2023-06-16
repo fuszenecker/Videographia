@@ -168,7 +168,7 @@ Project szinten és/vagy timeline szinten állítsd be (`Color` tab):
 * `Color Space`: `Rec.2020`, `Gamma Tag`: `Rec.2100 ST2084`,
 * `Output color space`: `Rec.2020`, (gamma) `Rec.2100 ST2084`,
 * `HDR mastering is for "1000" nits.`
-* `Mastering display`: `1000-nit, BT.2020, D66, ST2084, full`,
+* `Mastering display`: `1000-nit, BT.2020, D65, ST2084, full`,
 * `Enable HDR10+`: on, `Enable HDR Vivid`: on, `Enable Dolby Vision`: on, 
 * H.265 `Main10` profile, a lenti videó bitrate-eket 20%-kal meg kell emelni.
 * Vagy DNxHR 10-bites formában, csak az elég nagy.
