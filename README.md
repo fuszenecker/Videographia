@@ -116,7 +116,10 @@
 * `Analyze Audio Levels`, `Normalize Audio Levels`: `ITU-R BS.177044` értékek:
   * YouTube: -14 dB LUFS.
   * TikTok: -13-15 dB LUFS.
-* Hangot jelalak alapján szinkronizálni.
+* Hangot jelalak alapján szinkronizálni:
+  * A **Media Poolban** kijelölni az összes videót-hangot.
+  * Jobb gomb --> `Auto Sync Audio` --> `Based on Wabeform`.
+  * A DaVinci Resolve így kicseréli az eredeti hangot a jó imnőségű külsőre. Ha mégis kell az eredeti: Timeline-on jobb klikk a clipen --> `Clip Attributes` --> `Audio` tab. A `Linked Channel` a jó minőségű, kicserélt.
 * Audio layerek (`Timeline` --> `Layered Audio Editing`), ezek közül csak a legfelső hallatszik.
 * ALT + kattingás a hangerő vonalon = audio keyframes.
 * A Lavalier mikrofon elég steril hangot ad, lehet rá kis zengést adni `Reverb` pluginnel, és a magasat kicsit kiemelni, közepet elnyomni equalizerrel.
