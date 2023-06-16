@@ -124,15 +124,16 @@
 * ALT + kattingás a hangerő vonalon = audio keyframes.
 * A Lavalier mikrofon elég steril hangot ad, lehet rá kis zengést adni `Reverb` pluginnel, és a magasat kicsit kiemelni, közepet elnyomni equalizerrel.
 * **Zene vége**:
-  * Megvágni a zenét, hogy egy dobütés még benne legyen.
+  * Megvágni a zenét az `Edit` page-en, hogy egy dobütés még benne legyen.
   * Másolatot készíteni az utolsó dobütésről, áttenni új trackre.
-  * Új tracket compound clippé konvertálni (`Create New`).
+  * Új tracket compound clippé konvertálni (jobb gomb --> `New Compound Clip`).
   * Meghosszabbítani a compound clipet, hogy legyen hely a zengésnek:
-    * Megnyitni a compound clipet,
+    * Megnyitni a compound clipet: jobb gomb --> `Open in Timeline`,
     * a benne levő zenét lemásolni.
     * meghosszabbítani a másolatot.
-    * némítani.
-  * Rátenni egy `Reverb` effektet, hogy amikor az utolsót üti a dobos, kicsit visszhangozzon, és úgy érjen véget.
+    * némítani: `Mute`.
+  * Meghosszabbítani a compount clipet az eredeti timeline-on,
+  * Rátenni egy `Reverb` effektet (70 m² körüli terem), hogy amikor az utolsót üti a dobos, kicsit visszhangozzon, és úgy érjen véget.
 * ADR.
 
 ## Export
