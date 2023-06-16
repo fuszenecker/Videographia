@@ -81,13 +81,13 @@
 ## FX
 
 * Stabilizálás
-  * Planar trackerrel:
+  * `Planar Tracker`-rel:
     * ha van planar transform node, a planar trackert le lehet törölni, a transform node-ban megvan a mozgatási infó.
-  * ~(pont) Trackerrel~.
-* Effektekre (pl. szöveg mozgatás), motion blur.
-* Planar trackerrel valamit odaehet tenni, ami követ, pl. eget.
+  * ~(pont) `Tracker`-rel~.
+* Effektekre (pl. szöveg mozgatás) motion blur.
+* `Planar Tracker`-rel valamit odaehet tenni, ami követ, pl. eget.
 * Ég lecserélése.
-* Keyframe stretcher.
+* `Keyframe Stretcher`.
 
 ## Színezés
 
