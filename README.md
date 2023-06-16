@@ -55,7 +55,7 @@
       * 4k UHD: Quarter
     * `Proxy media format`, `Optimized media format` és `Render cache format`: `DNxHR`:
       * LB: low bandwidth
-      * SQ: standard qual
+      * SQ: standard quality
 * Audio target level: 
   * `File` --> `Project Settings` --> `Fairlight` --> `Target loudness level`: -14 dB LUFS.
 
