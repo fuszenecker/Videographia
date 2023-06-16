@@ -53,7 +53,9 @@
     * `Proxy media resolution` és `Optimized media resolution`:
       * 1080p HD: Half
       * 4k UHD: Quarter
-    * `Proxy media format`, `Optimized media format` és `Render cache format`: `DNxHR` valamenyik.
+    * `Proxy media format`, `Optimized media format` és `Render cache format`: `DNxHR`:
+      * LB: low bandwidth
+      * SQ: standard qual
 * Audio target level: 
   * `File` --> `Project Settings` --> `Fairlight` --> `Target loudness level`: -14 dB LUFS.
 
@@ -77,6 +79,10 @@
   * `Retime Control`,
   * `Retime Curve`: ALT-tal lehet keyframe-et hozzáadni,
 * Kamera mozgatása: 4k UHD széles kép és a `Zoomm` + `Transform`-mal kameramozgatás.
+* **Multicam**:
+  * Media Poolban kijelölöm a klipeket,
+  * `Create New Multicam Clip Using Selected Clips`,
+  * Feljövő ablakban: `Angle Sync`: `Sound`.
 
 ## FX
 
