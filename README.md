@@ -45,6 +45,7 @@
 ## Project Settings
 
 * Color Management: `Davinci YRGB Color Managed`.
+* Ha HDR-t szeretnél: Color Space: `Rec.2020`, Gamma Tag: `Rec.2100 ST2084`.
 * `File` --> `Project Settings` --> `Master Settings` --> `Frame Interpolation` --> `Retime Process`: `Optical flow`. Ezzel a beállítással bármikor lehet slow motion-t csinálni Retime Curve-vel. A `Motion estimation mode`-ot lehet állítani, finomhangolni.
 * `Timeline` --> `Selection Follows Playhead`: vágásnál fontos, hogy mindig az éppen aktuálisan látott klipet vágjuk.
 * `Playback` --> `Render Cache` --> `Smart`.
