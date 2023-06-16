@@ -165,8 +165,8 @@ Project szinten és/vagy timeline szinten állítsd be (`Color` tab):
 * `Automatic color management`: off,
 * `Color Processing Mode`: `HDR DaVinci Wide Gamut Intermediate`,
 * `Use separate color space and gamma`: on,
-* `Color Space`: `Rec.2020`, `Gamma Tag`: `Rec.2100 ST2084`,
-* `Output color space`: `Rec.2020`, (gamma) `Rec.2100 ST2084`,
+* `Color Space`: `Rec.2020`, `Gamma Tag`: `Rec.2100 HGL`,
+* `Output color space`: `Rec.2020`, (gamma) `Rec.2100 HGL`,
 * `HDR mastering is for "1000" nits.`
 * `Mastering display`: `1000-nit, BT.2020, D65, ST2084, full`,
 * `Enable HDR10+`: on, `Enable HDR Vivid`: on, `Enable Dolby Vision`: on, 
