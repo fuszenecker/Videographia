@@ -157,7 +157,7 @@
     * Mono:	128 kbps,
     * Stereo:	384 kbps.
 
-### HDR Rec.2020 HGL
+### HDR10+ REC.2020 ST.2084 (PQ)
 
 Project szinten és/vagy timeline szinten állítsd be (`Color` tab):
 
@@ -165,11 +165,11 @@ Project szinten és/vagy timeline szinten állítsd be (`Color` tab):
 * `Automatic color management`: off,
 * `Color Processing Mode`: `HDR DaVinci Wide Gamut Intermediate`,
 * `Use separate color space and gamma`: on,
-* `Color Space`: `Rec.2020`, `Gamma Tag`: `Rec.2100 HGL`,
-* `Output color space`: `Rec.2020`, (gamma) `Rec.2100 HGL`,
-* ~`HDR mastering is for "1000" nits.`~
-* ~`Mastering display`: `1000-nit, BT.2020, D65, ST2084, full`~,
-* `Enable HDR10+`: on, `Enable HDR Vivid`: on, `Enable Dolby Vision`: on,
+* `Color Space`: `Rec.2020`, `Gamma Tag`: `Rec.2100 ST.2084`,
+* `Output color space`: `Rec.2020`, (gamma) `Rec.2100 ST.2084`,
+* `HDR mastering is for "300" nits.`, vagy amennyi a kijelző ((Samsung TV)[https://www.rtings.com/tv/reviews/samsung/q60-q60t-qled]: 446 nits, Xiaomi 11: 500 nits
+* `Mastering display`: `1000-nit, BT.2020, D65, ST2084, full`,
+* `Enable HDR10+`: on, `Enable HDR Vivid`: on, `Enable Dolby Vision`: off,
 * Exportálás:
   * `Data Levels`: `Full`.
   * H.265:
@@ -178,4 +178,4 @@ Project szinten és/vagy timeline szinten állítsd be (`Color` tab):
   * DNxHR:
     * `Format`: `QuickTime`, `Codec`: `DNxHR`, `Type`: `DNxHR HQX 10-bit`.
 
-YouTube-on nagyon sokat kell várni a HDR konverzióra.
+YouTube-on nagyon sokat kell várni a HDR10+ konverzióra.
