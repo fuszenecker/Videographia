@@ -167,7 +167,7 @@ Project szinten és/vagy timeline szinten állítsd be (`Color` tab):
 * `Use separate color space and gamma`: on,
 * `Color Space`: `Rec.2020`, `Gamma Tag`: `Rec.2100 ST.2084`,
 * `Output color space`: `Rec.2020`, (gamma) `Rec.2100 ST.2084`,
-* `HDR mastering is for "300" nits.`, vagy amennyi a kijelző ([Samsung TV](https://www.rtings.com/tv/reviews/samsung/q60-q60t-qled): 446 nits, Xiaomi 11: 500 nits
+* `HDR mastering is for "500" nits.`, vagy amennyi a kijelző ([Samsung TV](https://www.rtings.com/tv/reviews/samsung/q60-q60t-qled): 446 nits, Xiaomi 11: 500 nits
 * `Mastering display`: `1000-nit, BT.2020, D65, ST2084, full`,
 * `Enable HDR10+`: on, `Enable HDR Vivid`: on, `Enable Dolby Vision`: off,
 * Exportálás:
