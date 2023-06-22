@@ -12,7 +12,7 @@
   * **Manual mód plusz auto ISO**, én állítom a shutter speedet és az aperture-t.
 * Videó: 
   * felbontás: 4k UHD (3840 × 2160),
-  * 25 (vagy 24) fps, 1/50 sec. shutter speed,
+  * 25 (vagy 24) fps, 1/50 sec. shutter speed (180˚),
   * Expozíció: -0,7 ... -1 EV,
     * ND filter, ha túl világos,
   * log format (Sony SLog-3),
