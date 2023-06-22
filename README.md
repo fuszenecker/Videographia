@@ -97,6 +97,8 @@
 
 ## Színezés
 
+### Globális beállítások
+
 * Clipek csoportosítása: klipek kijelölése, `Add to Current (New) Group`.
   * Pre (első pötty): `Sony S-Gamut3`+`S-Log3` --> `DaVinci Wide Gamut` + `DaVinci Intermediate`.
   * Klipenként (második pötty): amit kell.
@@ -115,6 +117,11 @@
   * `Color Wheels` --> `Log Wheels` --> `Shadows`-t kell cián irányba állítani.
   * Az `↑ Rng` és `↓ Rng` beállítja az "árnyék" tartományt.
 * Lehet a végén `Vignette`-t adni a filmre.
+
+### Lokális grading
+
+* `Window`-ban kijelölt részt lehet külön trackeltetni: `Tracker` --> `Window`.
+* Nagy ellipszis ablakkal irányított fényt lehet hozzáadni, mintha pl. az ablakon jönne be.
 
 ## Hang
 
