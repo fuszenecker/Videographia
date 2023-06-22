@@ -13,12 +13,14 @@
 * Videó: 
   * felbontás: 4k UHD (3840 × 2160),
   * 25 (vagy 24) fps, 1/50 sec. shutter speed (180˚),
-  * Expozíció: -0,7 ... -1 EV,
+  * Expozíció:
+    * Rec.709-nél -0,7 ... -1 EV,
+    * HLG-nél +0,7 ... +1 EV,
     * ND filter, ha túl világos,
   * Log format:
-    * **HLG2**: jó kompromisszum,
     * HLG1: jobb zajelnyomás,
-    * HLG3: jobb dinamika.
+    * HLG2: jó kompromisszum,
+    * **HLG3**: jobb dinamika (+0,7 EV!).
 * Tripodról, állványról, **sosem kézből**.
 * Hangot mindig külön kell felvenni (Zoom F2, LMF-2), később, hullámforma alapján szikronizálni.
 
