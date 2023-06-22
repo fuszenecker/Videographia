@@ -104,9 +104,9 @@
 * Zajeltávolítás (`Motion Effects`):
   * temporal, 
   * majd esetleg spatial.
-* Égszín kiemelése (`Curves` --> `Hue vs Sat`).
+* Égszín kiemelése (`Curves` --> `Hue vs Sat`), vagy ki lehet cserélni.
 * Motion blur (`Motion Effects`) rossz klipre.
-* Ciánozás a színpókhálóval (`Color Warper`).
+* Ciánozás a színpókhálóval (`Color Warper`), különösen az árnyékokat (shadows).
 * Van `Gallery` a bal felső sarokban, oda lehet menteni:
   * állóképeket (still),
   * színezés fázisait, ami később össze lehet hasonlítani előtte-utána nézetben.
