@@ -122,6 +122,7 @@
 
 * `Window`-ban kijelölt részt lehet külön trackeltetni: `Tracker` --> `Window`.
 * Nagy ellipszis ablakkal irányított fényt lehet hozzáadni, mintha pl. az ablakon jönne be.
+* `Qualifier`-rel lehet bizonyos színeket, tónusokat kijelölni.
 
 ## Hang
 
