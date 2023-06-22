@@ -51,11 +51,11 @@
 * Proxy:
   * `File` --> `Project Settings` --> `Master Settings`:
     * `Proxy media resolution` és `Optimized media resolution`:
-      * 1080p HD: Half
-      * 4k UHD: Quarter
+      * 1080p HD: Half,
+      * 4k UHD: Quarter.
     * `Proxy media format`, `Optimized media format` és `Render cache format`: `DNxHR`:
-      * LB: low bandwidth
-      * SQ: standard quality
+      * LB: low bandwidth (pl. Wifin),
+      * SQ: standard quality (etherneten).
 * Audio target level: 
   * `File` --> `Project Settings` --> `Fairlight` --> `Target loudness level`: -14 dB LUFS.
 
