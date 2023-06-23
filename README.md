@@ -102,6 +102,21 @@
 
 ## Színezés
 
+Pipeline:
+* Group Pre-Clip:
+  * `Color Space Transform`
+* Clip (külön node-okon):
+  * Általános javítások:
+    * Expozíció: `Offset`, `Gain`
+    * `Contrast`, `Gamma`
+    * `Saturation`, `White Balance) stb.
+  * Egyedi javítások, stílizálás (ha lehet, egymással párhuzamos node-okon):
+    * árnyékok ciánozása,
+    * ég kékítése,
+    * extra fények stb.
+* Group Post-Clip
+  * `Color Space Transform`
+
 ### Globális beállítások
 
 * Clipek csoportosítása: klipek kijelölése, `Add to Current (New) Group`.
