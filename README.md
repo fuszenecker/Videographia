@@ -113,7 +113,7 @@ Pipeline:
     * `Contrast`, `Gamma`, S-görbe,
     * `White Balance`,
     * `Saturation`,
-    * élesítés.
+    * élesítés, film grain.
   * Egyedi javítások, stílizálás (ha lehet, egymással párhuzamos node-okon):
     * árnyékok ciánozása,
     * ég kékítése,
