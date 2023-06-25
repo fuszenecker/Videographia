@@ -108,9 +108,11 @@ Pipeline:
   * `Color Space Transform`
 * Clip (külön node-okon):
   * Általános javítások:
-    * Expozíció: `Offset`, `Gain`
-    * `Contrast`, `Gamma`
-    * `Saturation`, `White Balance) stb.
+    * Crop,
+    * Expozíció: `Offset`, `Gain`,
+    * `Contrast`, `Gamma`, S-görbe,
+    * `White Balance`,
+    * `Saturation` stb.
   * Egyedi javítások, stílizálás (ha lehet, egymással párhuzamos node-okon):
     * árnyékok ciánozása,
     * ég kékítése,
