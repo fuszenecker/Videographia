@@ -112,7 +112,8 @@ Pipeline:
     * Expozíció: `Offset`, `Gain`,
     * `Contrast`, `Gamma`, S-görbe,
     * `White Balance`,
-    * `Saturation` stb.
+    * `Saturation`,
+    * élesítés.
   * Egyedi javítások, stílizálás (ha lehet, egymással párhuzamos node-okon):
     * árnyékok ciánozása,
     * ég kékítése,
