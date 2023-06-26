@@ -44,7 +44,7 @@
     * `Timeline backups`: be.
   * `Editing`:
     * `New Timeline Settings` --> `Start timecode`: `00:00:00`, különben elcsúszik a felirat (subtitle).
-* `DaVinci Resolve` --> `Keyboard mapping`: [keymap](Davinci Resolve Keymap.txt)
+* `DaVinci Resolve` --> `Keyboard mapping`: [keymap](Davinci%20Resolve%20Keymap.txt)
 * Dual screen: `Workspace` --> `Video Clean Feed`: a másik monitor.
 * `Log` táblázat: `Clip Name`, `Input Color Space`, `Proxy`, `Scene`, `Shot`, `Good Take`, `Date Modified`.
 
