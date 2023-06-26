@@ -12,15 +12,15 @@
   * **Manual mód plusz auto ISO**, én állítom a shutter speedet és az aperture-t.
 * Videó: 
   * felbontás: 4k UHD (3840 × 2160),
-  * 25 (vagy 24) fps, 1/50 sec. shutter speed (180˚),
+  * 25 (vagy 24) fps, 1/50 (vagy 1/48) sec. shutter speed (180˚),
   * Expozíció:
-    * Rec.709-nél -0,7 ... -1 EV,
     * HLG-nél +0,7 ... +1 EV,
+    * Rec.709-nél -0,7 ... -1 EV,
     * ND filter, ha túl világos,
   * Log format:
-    * HLG1: jobb zajelnyomás,
+    * **HLG3**: jobb dinamika (+0,7 EV!),
     * HLG2: jó kompromisszum,
-    * **HLG3**: jobb dinamika (+0,7 EV!).
+    * HLG1: jobb zajelnyomás.
 * Tripodról, állványról, **sosem kézből**.
 * Hangot mindig külön kell felvenni (Zoom F2, LMF-2), később, hullámforma alapján szikronizálni.
 
