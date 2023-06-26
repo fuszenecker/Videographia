@@ -179,8 +179,9 @@ Pipeline:
 
 `Band 1` aluláteresztő szűrővel 
 * 125 Hz ... 250 Hz közötti törésponti frekvenciával
-* +5 dB ... +15 dB erősítést,
+* +5 dB ... +10 dB erősítést,
 * Q minél kisebb.
+* 3000 Hz ... 8000 Hz között lehet adni kb. feleannyit.
 
 ## Export
 
