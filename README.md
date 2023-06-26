@@ -177,15 +177,7 @@ Pipeline:
 
 ### Lavalier mikrofonhoz az equalizer
 
-EQ Type: Fire
-
-| Freq.    | Gain   | Q      |
-|---------:|-------:|-------:|
-|   125 Hz | +15 dB |    0,3 |
-|   250 Hz |   0 dB |    0,3 |
-|    1 kHz |   0 dB |    0,3 |
-|    2 kHz |  +5 dB |    4,0 |
-|   20 kHz |        |        |
+`Band 1` aluláteresztő szűrővel 125 Hz és 250 Hz közötti törésponti frekvenciával tegyél be `+15 dB` erősítést, `Q = 1`.
 
 ## Export
 
