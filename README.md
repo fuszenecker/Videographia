@@ -157,7 +157,7 @@ Pipeline:
   * TikTok: -13-15 dB LUFS.
 * Hangot jelalak alapján szinkronizálni:
   * A **Media Poolban** kijelölni az összes videót-hangot,
-  * Jobb gomb --> `Auto Sync Audio` --> `Based on Wabeform`,
+  * Jobb gomb --> `Auto Sync Audio` --> `Based on Waveform` vagy `Based on Waveform and Append Tracks` (ha kell a régi hang is),
   * A DaVinci Resolve így kicseréli az eredeti hangot a jó imnőségű külsőre. Ha mégis kell az eredeti: Timeline-on jobb klikk a clipen --> `Clip Attributes` --> `Audio` tab. A `Linked Channel` a jó minőségű, kicserélt.
 * Audio layerek (`Timeline` --> `Layered Audio Editing`), ezek közül csak a legfelső hallatszik.
 * ALT + kattingás a hangerő vonalon = audio keyframes.
