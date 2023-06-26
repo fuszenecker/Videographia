@@ -175,11 +175,13 @@ Pipeline:
   * Rátenni egy `Reverb` effektet (70 m² körüli terem), hogy amikor az utolsót üti a dobos, kicsit visszhangozzon, és úgy érjen véget.
 * ADR.
 
+### Lavalier mikrofonhoz az equalizer
+
 EQ Type: Fire
 
 | Freq.    | Gain   | Q      |
 |---------:|-------:|-------:|
-|   120 Hz | +15 dB |    0,3 |
+|   125 Hz | +15 dB |    0,3 |
 |   250 Hz |   0 dB |    0,3 |
 |    1 kHz |   0 dB |    0,3 |
 |    2 kHz |  +5 dB |    4,0 |
