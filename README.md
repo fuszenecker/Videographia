@@ -178,10 +178,9 @@ Pipeline:
 ### Lavalier mikrofonhoz az equalizer
 
 `Band 1` aluláteresztő szűrővel 
-* 125 Hz ... 250 Hz közötti törésponti frekvenciával
-* +5 dB ... +10 dB erősítést,
-* Q minél kisebb.
-* 3000 Hz ... 8000 Hz között lehet adni kb. feleannyit.
+* +20 dB erősítés,
+* Q minél kisebb,
+* 50 Hz ... 250 Hz közötti törésponti frekvenciát megkeresni, ahol még éppen nincs dobozhang (mostani mikrofonnal: 90 Hz).
 
 ## Export
 
