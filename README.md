@@ -105,28 +105,30 @@
 
 Pipeline:
 * Group Pre-Clip:
-  * `Color Space Transform`
+  * `Color Space Transform` effekt
 * Clip (külön node-okon):
   * Általános javítások:
     * Crop,
     * Expozíció: `Offset`, `Gain`,
     * `Contrast`, `Gamma`, S-görbe,
-    * `White Balance`,
+    * `White Balance`, `Tint` (ld. vector scope: WB-ra merőlegesen mozgat),
     * `Saturation`,
-    * élesítés, film grain.
+    * Temporal NR (`Motion Effects` tab)
   * Egyedi javítások, stílizálás (ha lehet, egymással párhuzamos node-okon):
     * árnyékok ciánozása,
     * ég kékítése,
     * extra fények stb.
-* Group Post-Clip
-  * `Color Space Transform`
+  * Motion blur (`Motion Effects` tab),
+  * élesítés (`Blur` tab), `Film Grain` effekt.
+* Group Post-Clip:
+  * `Color Space Transform` effekt.
 
 ### Globális beállítások
 
 * Clipek csoportosítása: klipek kijelölése, `Add to Current (New) Group`.
-  * Pre (első pötty): `Sony S-Gamut3`+`S-Log3` --> `DaVinci Wide Gamut` + `DaVinci Intermediate`.
+  * Pre (első pötty): `Rec.2020`+`HGL3` --> `DaVinci Wide Gamut` + `DaVinci Intermediate`.
   * Klipenként (második pötty): amit kell.
-  * Post (hatmadik pötty): `DaVinci Wide Gamut` + `DaVinci Intermediate` --> `Rec-709`+`Rec-709-A`.
+  * Post (harmadik pötty): `DaVinci Wide Gamut` + `DaVinci Intermediate` --> `Rec-709`+`Rec-709-A`.
 * Zajeltávolítás (`Motion Effects`):
   * temporal, 
   * majd esetleg spatial.
