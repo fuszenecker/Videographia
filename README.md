@@ -68,27 +68,30 @@
 ## Vágás
 
 * `Generate Proxy Media`.
-* Cut on action.
-* Match cut.
-* ALT gomb: a vágást a kép- vagy hangsávon lehet ida-oda mozgatni:
-  * L-cut:
-    * a B-rollra,
-    * insert shotra,
-    * párbeszéd **első** mindatára: kvázi odafordul az ember figyelme.
-  * J-cut:
-    *  a párbeszédben **további** ide-oda váltogatásnál: kvázi várja az ember a választ, 
-    *  néha akkor is, ha a másik ember nem is szólal meg, csak az érzelmet mutatjuk,
-* Smash cut, hangosról másik, halk jelenetre. 
-* Vágás ütemre, zenére.
-* Jump cut: az idő telésének felgyorsítására.
 * Van lassítás, gyursítás (retime) optikal flow hatással:
   * `Retime Control`,
-  * `Retime Curve`: ALT-tal lehet keyframe-et hozzáadni,
+  * `Retime Curve`: `ALT`-tal lehet keyframe-et hozzáadni,
 * Kamera mozgatása: 4k UHD széles kép és a `Zoomm` + `Transform`-mal kameramozgatás.
 * **Multicam**:
   * Media Poolban kijelölöm a klipeket,
   * `Create New Multicam Clip Using Selected Clips`,
   * Feljövő ablakban: `Angle Sync`: `Sound`.
+
+### Vágások
+
+* Cut on action, vagy egy kicsit utána.
+* Vágás ütemre, zenére.
+* Insert shot, B-rollra.
+* L-cut (`ALT` gomb: a vágást a kép- vagy hangsávon lehet ida-oda mozgatni):
+  * a B-rollra,
+  * insert shotra,
+  * párbeszéd **első** mindatára: kvázi odafordul az ember figyelme.
+* J-cut:
+  *  a párbeszédben **további** ide-oda váltogatásnál: kvázi várja az ember a választ, 
+  *  néha akkor is, ha a másik ember nem is szólal meg, csak az érzelmet mutatjuk,
+* Jump cut: az idő telésének felgyorsítására.
+* Match cut.
+* Smash cut, hangosról másik, halk jelenetre.
 
 ## FX
 
