@@ -156,7 +156,7 @@ Pipeline:
 * **Voice Isolation**.
 * `Analyze Audio Levels`, `Normalize Audio Levels`: `ITU-R BS.1770-4` értékek:
   * YouTube: -14 dB LUFS,
-  * TikTok: -13-15 dB LUFS.
+  * TikTok: -13 dB ... -15 dB LUFS.
 * Hangot jelalak alapján szinkronizálni:
   * A **Media Poolban** kijelölni az összes videót-hangot,
   * Jobb gomb --> `Auto Sync Audio` --> `Based on Waveform` vagy `Based on Waveform and Append Tracks` (ha kell a régi hang is),
