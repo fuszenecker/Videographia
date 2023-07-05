@@ -68,6 +68,7 @@
 ## Vágás
 
 * `Generate Proxy Media`.
+* `Stabilize`.
 * Van lassítás, gyursítás (retime) optikal flow hatással:
   * `Retime Control`,
   * `Retime Curve`: `ALT`-tal lehet keyframe-et hozzáadni,
