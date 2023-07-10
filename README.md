@@ -29,9 +29,10 @@
 * Rule of thirds.
 * Vezető vonalak.
 * Shotok minden jelenethez (scene):
-  * (establishing shot),
-  * master shot, amiben bemutatjuk a főszereplőt,
-  * kivezető shot.
+  * WIDE: establishing shot,
+  * WIDE: master shot, amiben bemutatjuk a főszereplőt,
+  * MEDIUM-tól CLOSE-UP-ig: ahogy halad a sztori és megismerődnek a szereplők,
+  * WIDE: kivezető shot.
 * B-roll.
 
 ## DaVinci Resolve Settings
