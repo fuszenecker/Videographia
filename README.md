@@ -32,6 +32,7 @@
   * WIDE: establishing shot,
   * WIDE: master shot, amiben bemutatjuk a főszereplőt,
   * MEDIUM-tól CLOSE-UP-ig: ahogy halad a sztori és megismerődnek a szereplők,
+  * INSERT: valami specifikusra,
   * WIDE: kivezető shot.
 * B-roll.
 
