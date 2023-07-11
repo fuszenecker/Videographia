@@ -4,7 +4,8 @@
 
 * Golden hour, szép színek, árnyékos kép.
 * Nap az alany mögött.
-* Key light (főfény), fill light (derítőfény), back light (díszítő- vagy élfény). Rembrandt-háromszög. Kontraszt-arány: 4:1 - 8:1. 
+* Key light (főfény), fill light (derítőfény), back light (díszítő- vagy élfény). Rembrandt-háromszög. Kontraszt-arány: 4:1 - 8:1.
+* Smart side vs. dumb side.
 * Állókép:
   * Shutter speed: **`1/100`** vagy gyorsabb. Ökölszabály: `1 / (2 × fókusztávolság[mm, @35mm])`.
   * RAW-ban is mentsük.
