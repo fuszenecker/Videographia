@@ -25,13 +25,21 @@
 * Tripodról, állványról, **sosem kézből**.
 * Hangot mindig külön kell felvenni (Zoom F2, LMF-2), később, hullámforma alapján szikronizálni.
 
-### Sorrend
+### Sorrend (WASEF)
 
-* White balance
-* Aperture
-* Shutter speed
-* Exposition (ISO = `auto`, ND filter)
-* Fókusz
+#### Global
+
+1. Resolution
+1. Frame rate
+1. Color mode
+
+#### Local
+
+1. White balance
+1. Aperture
+1. Shutter speed
+1. Exposition (ISO = `auto`, ND filter)
+1. Focus
 
 ## Kompozíció
 
