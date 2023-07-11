@@ -25,6 +25,14 @@
 * Tripodról, állványról, **sosem kézből**.
 * Hangot mindig külön kell felvenni (Zoom F2, LMF-2), később, hullámforma alapján szikronizálni.
 
+### Sorrend
+
+* White balance
+* Aperture
+* Shutter speed
+* Exposition (ISO = `auto`, ND filter)
+* Fókusz
+
 ## Kompozíció
 
 * Rule of thirds.
