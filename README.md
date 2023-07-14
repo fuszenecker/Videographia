@@ -87,7 +87,7 @@
 ## Vágás
 
 * `Generate Proxy Media`.
-* `Stabilize`.
+* `Stabilize`, a legjobb eredményt a `Planar Tracker` adja.
 * Crop: `Transform` --> `Zoom` és `Position`.
 * Van lassítás, gyursítás (retime) optikal flow hatással:
   * `Retime Control`,
