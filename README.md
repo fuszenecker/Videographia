@@ -88,6 +88,7 @@
 
 * `Generate Proxy Media`.
 * `Stabilize`.
+* Crop: `Transform` --> `Zoom` és `Position`.
 * Van lassítás, gyursítás (retime) optikal flow hatással:
   * `Retime Control`,
   * `Retime Curve`: `ALT`-tal lehet keyframe-et hozzáadni,
@@ -130,19 +131,19 @@ Pipeline:
 * Group Pre-Clip:
   * `Color Space Transform` effekt
 * Clip (külön node-okon):
-  * Általános javítások:
-    * Crop,
-    * Expozíció: `Offset`, `Gain`,
-    * `Contrast`, `Gamma`, S-görbe,
-    * `White Balance`, `Tint` (ld. vector scope: WB-ra merőlegesen mozgat),
-    * `Saturation`,
+  * Általános:
     * Temporal NR (`Motion Effects` tab)
-  * Egyedi javítások, stílizálás (ha lehet, egymással párhuzamos node-okon):
+    * Expozíció: `Offset`, `Gain`,
+    * `White Balance`, `Tint` (ld. vector scope: WB-ra merőlegesen mozgat),
+    * `Contrast`, `Gamma`, S-görbe,
+    * `Saturation`,
+  * Stílizálás (ha lehet, egymással párhuzamos node-okon):
     * árnyékok ciánozása,
     * ég kékítése,
     * extra fények stb.
   * Motion blur (`Motion Effects` tab),
-  * élesítés (`Blur` tab), `Film Grain` effekt.
+  * Élesítés (`Blur` tab),
+  * `Film Grain` effekt.
 * Group Post-Clip:
   * `Color Space Transform` effekt.
 
