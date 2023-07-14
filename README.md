@@ -17,7 +17,7 @@
   * Expozíció:
     * HLG-nél +0,7 ... +1 EV,
     * Rec.709-nél -0,7 ... -1 EV,
-    * Natív ISO és ND filter, ha túl világos,
+    * Alacsony ISO és ND filter, ha túl világos,
   * Log format:
     * **HLG3**: jobb dinamika (+0,7 EV!),
     * HLG2: jó kompromisszum,
